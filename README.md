@@ -1,2 +1,2 @@
-# telecom-churn-analysis
-This is a binary classification project built to predict customer churn using telecom usage and service data, and aimed to generate insights to support customer retention strategies.
+# TELECOM CHURN ANALYSIS
+https://www.pinterest.com/pin/9640586697363747/ 
